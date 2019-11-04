@@ -5,7 +5,7 @@
 ---
 IDE : Visual Studio 2010  
 Language : C  
-How to start
+#### How to start
 1. Move msvcp120d.dll, msvcr120d.dll to C:/Windows/System32 (64bit : C:/Windows/SysWOW64)
 2. Compile 2JO_PRJ using Visual Studio
 ---
